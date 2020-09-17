@@ -5,7 +5,9 @@ const products = require('./assets/furniture.json');
 
 const app = express(express.json());
 
-
+app.get('/', (req,res)=>{
+    res.send({message: "oi"});
+});
 app.get('/user', (req,res)=>{
     res.send(login);
 });
