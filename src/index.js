@@ -31,6 +31,6 @@ app.get('/product/:id', (req,res)=>{
     }
 });
 
-app.listen(8080, ()=>{
+app.listen(process.env.PORT, ()=>{
     console.log('api on');
 });
