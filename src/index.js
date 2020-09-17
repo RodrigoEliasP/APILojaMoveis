@@ -1,9 +1,11 @@
-const { response } = require('express');
 const express =  require('express');
 const login = require('./assets/user.json');
 const products = require('./assets/furniture.json');
+const cors = require('cors');
 
-const app = express(express.json());
+const app = express();
+app.use(express.json());
+app.use(cors());
 
 app.get('/', (req,res)=>{
     res.send({message: "oi"});
