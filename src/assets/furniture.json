@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "name": "Sofá Retrátil",
+        "price": 949.99,
+        "description": "Os móveis da SMP vão deixar sua casa mais bonita e decorada. O sofá Evolution é retrátil e reclinável ideal para quem gosta de conforto nas suas horas de lazer. Feito em madeira pinus e eucalipto é 100% reflorestada. Isso sem falar que é super confortável com revestimento suede e acabamento pena. O que garante a beleza e qualidade do produto.",
+        "images":[
+            "https://a-static.mlcdn.com.br/1500x1500/sofa-retratil-e-reclinavel-3-lugares-suede-phormatta-evolution-smp/magazineluiza/121927508/d2c8d517eeb76df3c2cf1c8529725d5f.jpg",
+            "https://a-static.mlcdn.com.br/1500x1500/sofa-retratil-e-reclinavel-3-lugares-suede-phormatta-evolution-smp/magazineluiza/121927508/508a33a2b567912dde32793e1503319c.jpg",
+            "https://a-static.mlcdn.com.br/1500x1500/sofa-retratil-e-reclinavel-3-lugares-suede-phormatta-evolution-smp/magazineluiza/121927508/139d829112cbc9bbf5fbec67bbf0c25a.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Mesa de Jantar",
+        "price": 1139.90,
+        "description": "Se você procura qualidade e sofisticação para sua sala de jantar e não abre mão de fazer as suas refeições em um ambiente confortável, é necessário ter uma mesa de jantar acolhedora. E a melhor opção é o modelo Luna Athenas da Rufato. Essa mesa de jantar no formato retangular possui tampo em MDF e conta com 04 lugares que deixarão os seus convidados bem acomodados. Disponível nas cores clássicas Imbuia e Off White, ela acompanhará perfeitamente a decoração da sua sala, pois possui design contemporâneo, dando um toque de modernidade ao ambiente.",
+        "images":[
+            "https://a-static.mlcdn.com.br/1500x1500/mesa-de-jantar-4-cadeiras-retangular-rufato-luna-athenas/magazineluiza/224805300/be3c50829b7aeea26d587424ecfe20ed.jpg",
+            "https://a-static.mlcdn.com.br/1500x1500/mesa-de-jantar-4-cadeiras-retangular-rufato-luna-athenas/magazineluiza/224805300/86aade1c93ce0be69717d8f7094b807c.jpg",
+            "https://a-static.mlcdn.com.br/1500x1500/mesa-de-jantar-4-cadeiras-retangular-rufato-luna-athenas/magazineluiza/224805300/fedcd29556c35e2b6f41952e2c296201.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Cama Box Casal",
+        "price": 826.49,
+        "description": "O Colchão casal Prime da Plumatex com 25cm de altura apresenta um nível de conforto diferenciado, sendo confeccionado com Sistema de Molas SLHS Superlastic, sistema no qual o Molejo é composto por fios de aço bitemperados contínuos, com o entrelaçamento das molas entre si, o que proporciona uma maior resistência bem como o suporte ideal para o corpo. Este sistema de molejo é o mais utilizado no mercado norte-americano, um dos mais exigentes do mundo. Seu estofamento é composto por espuma D-26 selada de ótima qualidade, e certificada pelo INMETRO. Este colchão possui uma perfeita sustentação para a coluna vertebral, sendo adaptado para todos os Biotipos de usuários. Cuidado, proteção, tecnologia e conforto para um descanso muito mais tranquilo e saudável com o colchão da Plumatex.",
+        "images":[
+            "https://a-static.mlcdn.com.br/1500x1500/cama-box-casal-box-colchao-plumatex-mola-25cm-de-altura/magazineluiza/229219300/f539424b91ccd475a466e249c2ec0634.jpg",
+            "https://a-static.mlcdn.com.br/1500x1500/cama-box-casal-box-colchao-plumatex-mola-25cm-de-altura/magazineluiza/229219300/c1725dfe767ba9dd6b1000c18e75be0d.jpg",
+            "https://a-static.mlcdn.com.br/1500x1500/cama-box-casal-box-colchao-plumatex-mola-25cm-de-altura/magazineluiza/229219300/42d613154278c007be7bb517a5dfce1c.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Guarda-roupa Casal",
+        "price": 1006.91,
+        "description": "Um quarto moderno e aconchegante precisará de um móvel diferenciado como esse Guarda-Roupa, desenvolvido para oferecer total conforto e comodidade para você e sua família. Ele é composto por quatro portas de bater, puxadores cromados, corrediças e bastões metálicos, gavetas externas e espelhos nas duas portas centrais dando um charme ainda maior ao ambiente. Seu material é ecologicamente correto que confere a boa resistência e durabilidade à peça. Surpreenda-se com design, inovação, beleza e durabilidade!",
+        "images":[
+            "https://a-static.mlcdn.com.br/1500x1500/guarda-roupa-casal-com-espelho-4-portas-6-gavetas-araplac-atraente-sofia/magazineluiza/217742900/cff4f35a69b5a1981ecdbab4474dcac4.jpg",
+            "https://a-static.mlcdn.com.br/1500x1500/guarda-roupa-casal-com-espelho-4-portas-6-gavetas-araplac-atraente-sofia/magazineluiza/217742900/436a9d797fec64204b44cea556f3ee42.jpg",
+            "https://a-static.mlcdn.com.br/1500x1500/guarda-roupa-casal-com-espelho-4-portas-6-gavetas-araplac-atraente-sofia/magazineluiza/217742900/1b179de5fd8ccd6beb4c7079c28b0b2a.jpg"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Painel para TV",
+        "price": 455.91,
+        "description": "painel para TV até 65\" Porto Bello da Caemmun é um produto desenvolvido para preencher o ambiente de forma harmônica e elegante. Seu formato com altura e largura na mesma dimensão é ideal para locais onde objetiva-se usar o painel como elemento principal da decoração, possui uma prateleira e três nichos que auxiliam na distribuição adequada dos objetos decorativos e equipamentos eletronicos.",
+        "images":[
+            "https://a-static.mlcdn.com.br/1500x1500/painel-para-tv-ate-65-sense-porto-bello-1-prateleira-caemmun/magazineluiza/217067500/7a92cff883222df518b0436ccfaf8529.jpg",
+            "https://a-static.mlcdn.com.br/1500x1500/painel-para-tv-ate-65-sense-porto-bello-1-prateleira-caemmun/magazineluiza/217067500/d846eb8374a9b646d31badbdd97527cf.jpg",
+            "https://a-static.mlcdn.com.br/1500x1500/painel-para-tv-ate-65-sense-porto-bello-1-prateleira-caemmun/magazineluiza/217067500/87abf8664c35f2cca80770afcfb0f0b9.jpg"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Lareira ecológica álcool",
+        "price": 372.00,
+        "description": "Lareira ecológica portátil - Combustível álcool/etanol - Queimador confeccionado em aço carbono - Suporte de madeira - Vidro temperado 8 milímetros - Dimensões do produto(m) 0.52x0.27x0.39 (LxPxA)",
+        "images":[
+            "https://a-static.mlcdn.com.br/618x463/lareira-ecologica-alcool-rhr/rhr/87c52568915211ea805a4201ac18501e/b591596b7be007cf369785f5fd6fb328.jpg",
+            "https://a-static.mlcdn.com.br/618x463/lareira-ecologica-alcool-rhr/rhr/87c52568915211ea805a4201ac18501e/09d9f37392873273e11a1f5056201518.jpg",
+            "https://a-static.mlcdn.com.br/1500x1500/lareira-ecologica-a-alcool-portatil-aco-preta-queimador-40cm-classe-a-lareiras-ecologicas/classealareirasecologicas/11906387/c4cb178dc97076eace737241e3005570.jpg"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Rack Para Tv",
+        "price": 199.90,
+        "description": "Este móvel é indicado para que seja utilizado em Sala de Estar, dando um toque especial no cômodo de sua casa. Para que você mantenha seu produto sempre em ótimo estado, recomendasse Pano seco ou umedecido, não utilizar quaisquer produtos abrasivos.",
+        "images":[
+            "https://a-static.mlcdn.com.br/618x463/rack-para-tv-ate-43-polegadas-talk-cedro-off-white-viero-moveis/panoramamoveis/41892/19c4216e0923d9d7b2ad198fd35016bf.jpg",
+            "https://a-static.mlcdn.com.br/88x66/rack-para-tv-ate-43-polegadas-talk-cedro-off-white-viero-moveis/panoramamoveis/41892/b55bd6b06a82bc50541847c4807a6b2d.jpg",
+            "https://a-static.mlcdn.com.br/88x66/rack-para-tv-ate-43-polegadas-talk-cedro-off-white-viero-moveis/panoramamoveis/41892/fa1591fc29a2050012bd4c519cd7a9b9.jpg"
+        ]
+    }
+
+]
